@@ -1,32 +1,70 @@
 # GraLLM-Archiv
 Papers about GNN&amp;LLM
-## Categories
 
-- Category 1: [Research area 1](category1)
-- Category 2: [Research area 2](category2)
-- Category 3: [Research area 3](category3)
+Welcome to the LLM (Large Language Models) & GNN (Graph Neural Networks) Research Papers repository! This repository aims to organize and curate research papers in the fields of Large Language Models and Graph Neural Networks based on different thematic areas.
 
-## Research area 1
+## Table of Contents
 
-- [Paper 1](link_to_paper1)
-- [Paper 2](link_to_paper2)
-- [Paper 3](link_to_paper3)
+1. [Introduction](#introduction)
+2. [LLM Subtopics](#llm-subtopics)
+    - [Topic 1: Natural Language Processing](#topic-1-natural-language-processing)
+    - [Topic 2: Pre-training Techniques](#topic-2-pre-training-techniques)
+    - [Topic 3: Applications of LLM](#topic-3-applications-of-llm)
+3. [GNN Subtopics](#gnn-subtopics)
+    - [Topic 1: Graph Representation Learning](#topic-1-graph-representation-learning)
+    - [Topic 2: Graph Convolutional Networks (GCNs)](#topic-2-graph-convolutional-networks-gcns)
+    - [Topic 3: GNN Applications](#topic-3-gnn-applications)
+4. [Contributing](#contributing)
+5. [License](#license)
 
-## Research area 2
+## Introduction
 
-- [Paper 4](link_to_paper4)
-- [Paper 5](link_to_paper5)
-- [Paper 6](link_to_paper6)
+This repository serves as a centralized hub for collecting and organizing influential research papers in the fields of Large Language Models and Graph Neural Networks. Whether you're a seasoned researcher or just starting in these domains, you'll find valuable resources categorized by specific topics.
 
-## Research area 3
+## LLM Subtopics
 
-- [Paper 7](link_to_paper7)
-- [Paper 8](link_to_paper8)
-- [Paper 9](link_to_paper9)
+### Topic 1: Natural Language Processing
+
+- Paper 1 Title [Link]
+- Paper 2 Title [Link]
+- ...
+
+### Topic 2: Pre-training Techniques
+
+- Paper 1 Title [Link]
+- Paper 2 Title [Link]
+- ...
+
+### Topic 3: Applications of LLM
+
+- Paper 1 Title [Link]
+- Paper 2 Title [Link]
+- ...
+
+## GNN Subtopics
+
+### Topic 1: Graph Representation Learning
+
+- Paper 1 Title [Link]
+- Paper 2 Title [Link]
+- ...
+
+### Topic 2: Graph Convolutional Networks (GCNs)
+
+- Paper 1 Title [Link]
+- Paper 2 Title [Link]
+- ...
+
+### Topic 3: GNN Applications
+
+- Paper 1 Title [Link]
+- Paper 2 Title [Link]
+- ...
 
 ## Contributing
 
-Contributions to the collection are highly appreciated! If you find any interesting papers or want to add a new category, please follow the guidelines in [CONTRIBUTING.md](link_to_contributing_file) to contribute to this repository.
+We welcome contributions! If you come across a paper that should be included or have any suggestions for improvement, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
-This repository is licensed under the [MIT License](link_to_license).
+
+This repository is licensed under the [MIT License](LICENSE).
