@@ -27,3 +27,6 @@ Papers about GNN&amp;LLM
 ## Contributing
 
 Contributions to the collection are highly appreciated! If you find any interesting papers or want to add a new category, please follow the guidelines in [CONTRIBUTING.md](link_to_contributing_file) to contribute to this repository.
+
+## License
+This repository is licensed under the [MIT License](link_to_license).
