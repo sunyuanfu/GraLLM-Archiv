@@ -23,9 +23,8 @@ This repository serves as a centralized hub for collecting and organizing influe
 
 ## LLM Subtopics
 
-### Topic 1: Natural Language Processing
-
-- Paper 1 Title [Link]
+### Topic 1: In-context Learning
+- [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/pdf/2305.14160.pdf)
 - Paper 2 Title [Link]
 - ...
 
